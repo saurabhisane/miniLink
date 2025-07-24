@@ -1,7 +1,7 @@
 
 
-### MiniLink
-   
+#miniLink
+
 <div align="center">
 
 **A Discord Link Shortener Chatbot** 🤖
