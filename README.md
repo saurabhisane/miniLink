@@ -1,7 +1,7 @@
 
 
 <div align="center">
-# MiniLink
+### MiniLink
    
 **A Discord Link Shortener Chatbot** 🤖
 
