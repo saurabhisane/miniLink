@@ -7,7 +7,8 @@ async function urlController(message) {
     const url = message.content.split('create')[1];
     const shortCode = shortid.generate(); 
     // const shortCode = crypto.randomBytes(5).toString('hex');
-    const shortUrl = `http://localhost:3000/${shortCode}`;
+    // const shortUrl = `http://localhost:3000/${shortCode}`;
+    const shortUrl = `http://localhost:${process.env.PORT}/${shortCode}`;
     
     // generate a short code
     console.log(`\nGenerated short code: ${shortCode}\n`);
