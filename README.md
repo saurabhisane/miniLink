@@ -1,9 +1,8 @@
-# 🔗 miniLink
+
 
 <div align="center">
-
-![miniLink Logo](https://via.placeholder.com/300x100/0066cc/ffffff?text=miniLink)
-
+# MiniLink
+   
 **A Discord Link Shortener Chatbot** 🤖
 
 [![GitHub stars](https://img.shields.io/github/stars/saurabhisane/miniLink?style=social)](https://github.com/saurabhisane/miniLink/stargazers)
